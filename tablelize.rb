@@ -19,13 +19,13 @@ files.each do |file|
 end
 
 headers = levels.values.map { |category| category.keys }.flatten.uniq
-table_headers = "<table><tr><th>Level</th><th>#{headers.join('</th><th>')}</th></tr>"
+table_headers = "| Level | #{headers.join(' | ')} |"
 tables = [table_headers]
-#tables << "| :--- | #{headers.map { |c| ':---' }.join(' | ')} |"
+tables << "| :--- | #{headers.map { |c| ':---' }.join(' | ')} |"
 
 levels.each do |level, categories|
-  row_data = categories.values_at(*categories.keys).map { |v| (v || '').gsub(/[\r\n]/, ' <hr/> ').gsub('- ', '').strip }.join('</td><td>')
-  tables << "<tr><#{level}</td><td> #{row_data} </td></tr>"
+  row_data = categories.values_at(*categories.keys).map { |v| (v || '').gsub(/[\r\n]/, ' <hr/> ').gsub('- ', '').strip }.join(' | ')
+  tables << "| #{level} | #{row_data} |"
 end
-tables << "</table>"
-File.write("levels_table.md", tables.join)
+
+File.write("levels_table.md", tables.join("\n"))
