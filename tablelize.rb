@@ -21,7 +21,7 @@ end
 headers = levels.values.map { |category| category.keys }.flatten.uniq
 table_headers = "| Level | #{headers.join(' | ')} |"
 tables = [table_headers]
-tables << "| --- | #{headers.map { |c| '---' }.join(' | ')} |"
+tables << "| :--- | #{headers.map { |c| ':---' }.join(' | ')} |"
 
 levels.each do |level, categories|
   row_data = categories.values_at(*categories.keys).map { |v| (v || '').gsub(/[\r\n]/, ' <hr/> ').gsub('- ', '').strip }.join(' | ')

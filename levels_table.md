@@ -1,5 +1,5 @@
-| Level | Scope | Short | Orga (Hats & How We) | Tech (before writing code) | Tech (when writing code) | Tech (after writing code) | Tech (around writing code) | Data |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level | Scope | Short | Hats & How We | Before writing code | When writing code | After writing code | Around writing code | Data |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | A1 | Personal | You are starting to learn how the system works | Follows our guidelines & Hows we do <hr/> Particpates in Theme or Reserve |  |  |  |  | Comments the queries |
 | A2 | Personal | You are starting to learn how the system works |  |  | Completes clearly-defined tasks and reports blockers | Writes pull requests that are easy to review and test |  | Writes self-explanatory queries |
 | B1 | Theme | You master your tool but you’re not totally autonomous | Takes a Hat | Participates to discussions on technique, with a pragmatic mindset <hr/> Helps define scope of new Themes | Owns the implementation of their projects once the scope is clearly defined <hr/> Demonstrates willingness to work on all parts of the codebase | Catches their mistakes before opening their PRs for review |  | Writes self-explanatory queries |
