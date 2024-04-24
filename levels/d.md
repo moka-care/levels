@@ -21,12 +21,9 @@ You actively make the team & app grow with sustainability in mind
 
 ### After writing code
 
-Writes pull requests that are easy to review and test
 
 ### Around writing code
 
 - Works on all parts of the stack
 
 ### Data
-
-Writes self-explanatory queries

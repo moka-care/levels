@@ -17,16 +17,10 @@ Demonstrates creativity, e.g. by finding simple, generalizable solutions that op
 
 ### When writing code
 
-Completes clearly-defined tasks and reports blockers
-
 ### After writing code
-
-Writes pull requests that are easy to review and test
 
 ### Around writing code
 
 Understands the entire technology ecosystem (even outside moka)
 
 ### Data
-
-Writes self-explanatory queries

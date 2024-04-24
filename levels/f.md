@@ -15,8 +15,6 @@ Establishes a technical vision and co-drive the creation of the roadmap for the 
 
 ### When writing code
 
-Completes clearly-defined tasks and reports blockers
-
 ### After writing code
 
 ### Around writing code
