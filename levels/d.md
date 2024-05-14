@@ -21,7 +21,7 @@ _e.g: should we move away from Redis, merge EmailRule/User_
   
 ### When writing code
 
-Navigates flawlesssly in many of other layer then the App (Rails) / Metabase layer:
+Navigates flawlessly within many other layers in addition to the App (Rails) / Metabase layer:
   - database in-and-out _e.g: index, how to administrate, how to make it efficient_
   - async processing in-and-out _e.g: jobs, efficient retry, idempotence_
   - mobile in-and-out _e.g: platform specificity, deployment_
