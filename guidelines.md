@@ -16,8 +16,20 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - Data software and ETL _e.g: Fivetran_
 
 
-### Probleme resolution
-- The `problem resolution` chapter can be divided in: 
+- This is divided in:
+
+  b1. demonstrates willingness to work on all parts
+
+  c1. works on all parts
+
+  c2. navigates within at least one other layer
+
+  d. navigates within many other layers
+
+  e. understands the entire technology ecosystem (even outside moka)
+
+
+### Problem solving
 
   b2. you can understand the problem, have some rough solutions
 
@@ -26,3 +38,17 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   c2. you can suggest a solution with full pro's & con's
   
   d. you can suggest multiple solutions
+
+### Team organisation
+
+  a1. follows our guidelines & Hows we do
+  
+  b1. takes a Hat and make it progress
+
+  b2. writes or contributes to a new Hat or How we do
+
+  c2. identifies useful new Hats
+
+  c2. gives some Hats back to the team
+
+  e. ensures an healthy Hats distribution
