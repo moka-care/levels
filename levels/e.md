@@ -22,5 +22,6 @@ Demonstrates creativity, e.g. by finding simple, generalizable solutions that op
 ### Around writing code
 
 Understands the entire technology ecosystem (even outside moka)
+_e.g: follow on new tech trends, new possibilites and share with the team, showing possibilities_
 
 ### Data
