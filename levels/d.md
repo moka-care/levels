@@ -25,7 +25,6 @@ Navigates [within many other layers](https://github.com/moka-care/levels/blob/gu
 
 ### After writing code
 
-
 ### Around writing code
 
 ### Data

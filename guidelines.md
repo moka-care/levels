@@ -31,6 +31,8 @@ _there no rule of thumb of exact duration and number of times, and it is part of
 
 ### Problem solving
 
+  b1. participates to discussions on technical topics
+
   b2. you can understand the problem, have some rough solutions
 
   c1. you can present the problem nicely
@@ -51,4 +53,22 @@ _there no rule of thumb of exact duration and number of times, and it is part of
 
   c2. gives some Hats back to the team
 
+  c2. looks for opportunities to mentor or coach
+
   e. ensures an healthy Hats distribution
+
+### Theme & Reserve
+
+  a1. participates
+
+  b1. works to define the initial scope
+
+  c1. has worked as Theme or Reserve Owner
+
+### Documentations
+
+  a2. writes pull requests that are easy to review
+
+  b1. produce _and_ review PR with care
+
+  b2. writes and maintains clear documentation
