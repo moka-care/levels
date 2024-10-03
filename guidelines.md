@@ -15,6 +15,14 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - monitoring and observability _e.g: datadog, apm_
   - Data software and ETL _e.g: Fivetran_
 
+- The `data stack`is composed of:
+  - Database
+  - Mixpanel
+  - Datadog
+  - Fivetran
+  - Metabase
+  - Heroku
+  - Data pipeline (all the steps to fill Metabase's data)
 
 - This is divided in:
 
