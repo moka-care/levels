@@ -24,7 +24,6 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - Data viz tool: Metabase
   - Host: AWS
   - Data pipeline: Airflow
-  - Versioning: Github
 
 
 - This is divided in:
