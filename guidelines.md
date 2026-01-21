@@ -16,6 +16,15 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - Data Analytics _e.g: Metabase_
   - ETL tools _e.g Airflow, Fivetran_
 
+- The `data stack`is composed of:
+  - Database: Postgresql
+  - Tracking tool: Mixpanel
+  - Monitoring: Datadog
+  - Data sources aggregator: Fivetran
+  - Data viz tool: Metabase
+  - Host: AWS
+  - Data pipeline: Airflow
+
 
 - This is divided in:
 
