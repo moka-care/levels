@@ -10,10 +10,20 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - database in-and-out _e.g: index, how to administrate, how to make it efficient_
   - async processing in-and-out _e.g: jobs, efficient retry, idempotence_
   - mobile in-and-out _e.g: platform specificity, deployment_
-  - deployment pipelines _e.g: heroku, github actions, mokabot_
+  - deployment pipelines _e.g: heroku, aws, github actions, mokabot_
   - network infrastructure _e.g: dyno, private network_
   - monitoring and observability _e.g: datadog, apm_
-  - Data software and ETL _e.g: Fivetran_
+  - Data Analytics _e.g: Metabase_
+  - ETL tools _e.g Airflow, Fivetran_
+
+- The `data stack`is composed of:
+  - Database: Postgresql
+  - Tracking tool: Mixpanel
+  - Monitoring: Datadog
+  - Data sources aggregator: Fivetran
+  - Data viz tool: Metabase
+  - Host: AWS
+  - Data pipeline: Airflow
 
 - The `RSSI` stack is composed of: 
   - Compliance OPS: Bastion

@@ -19,6 +19,5 @@ Establishes a technical vision and co-drive the creation of the roadmap for the 
 
 ### Around writing code
 
-Knows which levers to pull to drive meaningful results and understand the wider, cross-functional implications of their work.
 
 ### Data
