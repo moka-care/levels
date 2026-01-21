@@ -16,7 +16,7 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - Data software and ETL _e.g: Fivetran_
 
 - The `RSSI` stack is composed of: 
-  - Bastion
+  - Compliance OPS: Bastion
   - Compliance Framework: CNIL, RGPD, ISO, HDS
   - Monitoring: Datadog (security alert), Admin access
   - Internal: Team's process
