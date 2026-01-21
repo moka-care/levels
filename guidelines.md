@@ -25,6 +25,11 @@ _there no rule of thumb of exact duration and number of times, and it is part of
   - Host: AWS
   - Data pipeline: Airflow
 
+- The `RSSI` stack is composed of: 
+  - Compliance OPS: Bastion
+  - Compliance Framework: CNIL, RGPD, ISO, HDS
+  - Monitoring: Datadog (security alert), Admin access
+  - Internal: Team's process
 
 - This is divided in:
 
