@@ -23,7 +23,7 @@ table_headers = "| Level | #{headers.join(' | ')} |"
 tables = [table_headers]
 tables << "| :--- | #{headers.map { |c| ':---' }.join(' | ')} |"
 
-levels.each do |level, categories|
+levels.sort.each do |level, categories|
   row_data = categories.values_at(*categories.keys).map { |v| (v || '').gsub(/[\r\n]/, ' <hr/> ').gsub('- ', '').strip }.join(' | ')
   tables << "| #{level} | #{row_data} |"
 end
