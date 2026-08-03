@@ -8,7 +8,7 @@ files = Dir.glob("rssi_levels/*.md")
 levels = {}
 files.each do |file|
   # read file content
-  content = File.read(file)
+  content = File.read(file, encoding: 'UTF-8')
   level = content.match(/## (.*)/)[1].strip
   levels[level] = {}
   categories = content.split("###").slice(1..-1)
